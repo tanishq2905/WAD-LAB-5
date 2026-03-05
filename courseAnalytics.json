@@ -1,0 +1,35 @@
+{
+  "course_id": "CS101",
+  "course_name": "Web Development",
+  "instructor": "Dr. Anil Kumar",
+  "students": [
+    {
+      "student_id": 101,
+      "name": "Rahul Sharma",
+      "attendance_percentage": 82,
+      "internal_marks": 45,
+      "assignment_scores": [18, 20, 17]
+    },
+    {
+      "student_id": 102,
+      "name": "Priya Mehta",
+      "attendance_percentage": 70,
+      "internal_marks": 38,
+      "assignment_scores": [15, 14, 16]
+    },
+    {
+      "student_id": 103,
+      "name": "Amit Verma",
+      "attendance_percentage": 90,
+      "internal_marks": 48,
+      "assignment_scores": [19, 20, 18]
+    },
+    {
+      "student_id": 104,
+      "name": "Sneha Kapoor",
+      "attendance_percentage": 65,
+      "internal_marks": 42,
+      "assignment_scores": [12, 15, 14]
+    }
+  ]
+}
